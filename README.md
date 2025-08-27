@@ -56,6 +56,6 @@ The analysis was visualized through an **interactive Tableau dashboard** with mu
 ---
 
 ## 🔗 Links  
-- **Interactive Dashboard (Tableau Public)**: *[(https://public.tableau.com/app/profile/haniya.akhta3087/viz/InstagramInsights_17562771616990/TheDashboard)]*  
+[Interactive Dashboard (Tableau Public)](https://public.tableau.com/app/profile/haniya.akhta3087/viz/InstagramInsights_17562771616990/TheDashboard)
 
 ---
